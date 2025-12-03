@@ -9,4 +9,4 @@ export interface UserFormData {
     userPhone: string;
     userEmail: string;
     userPassword: string;
-  }
+}
